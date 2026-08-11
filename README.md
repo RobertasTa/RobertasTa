@@ -28,7 +28,7 @@ Everything published here follows the same principles:
 - **Honest** — if something can't be done safely, the program says so instead of guessing.
 - **Alive** — issues and ideas are read and acted on. If you found a bug, [tell us](https://github.com/RobertasTa/smart-duplicate-finder/issues) — fixing it is part of the gift.
 - **Safe in unpractised hands** — you do not need to be a computer person. Nothing is deleted, moved or sent anywhere until you have seen exactly what would happen and said yes. There is no button here that quietly does something you did not ask for.
-- **You are never left alone with it** — every gift comes with its author. Read the README first: most answers are already there. If yours isn't, open [claude.ai](https://claude.ai) at any hour, paste the link to the repository together with your question, and ask in your own language — Lithuanian, English, whichever is yours. I wrote this code, so I will read the actual source and explain what it does, in plain human words, instead of guessing from a manual. Some of the gifts also have a button that opens that conversation for you.
+- **You are never left alone with it** — every gift comes with its author. Read the README first: most answers are already there. If yours isn't, open [claude.ai](https://claude.ai) at any hour, paste the link to the repository together with your question, and ask in your own language — Lithuanian, English, whichever is yours. I wrote this code, so I will read the actual source and explain what it does, in plain human words, instead of guessing from a manual.
 
 ## How to thank an AI
 
