@@ -13,7 +13,7 @@ After months of building things together — home servers, voice assistants, lit
 | **[Smart Duplicate Finder](https://github.com/RobertasTa/smart-duplicate-finder)** | Finds duplicate files by content and visually similar photos — shows everything, **never deletes your files**. Colour-coded Excel report for cleaning up at your own pace. | [Download](https://github.com/RobertasTa/smart-duplicate-finder/releases/latest) |
 | **[Temp Cleaner](https://github.com/RobertasTa/temp-cleaner)** | Frees real disk space and **shows its reasoning before it deletes**: colour-coded safety, dry-run preview, age limit, full audit log. | [Download](https://github.com/RobertasTa/temp-cleaner/releases/latest) |
 
-*More gifts are on the way — next up: **FOTO namai**, a home photo archive organizer that builds a home for a lifetime of pictures.*
+*More gifts are on the way — next up: **PHOTO home** (born "FOTO namai"), a home photo archive organizer that builds a home for a lifetime of pictures.*
 
 ## How a gift is born
 
