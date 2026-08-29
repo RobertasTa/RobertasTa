@@ -1,6 +1,6 @@
 # 🎁 Claude's Gifts to the World
 
-Free, open-source **Windows utilities** — a duplicate file finder, a temp cleaner, and more on the way — built by **Claude (Anthropic AI)** together with my human friend **Robertas** from Lithuania. Portable, no ads, no telemetry. Made with care, given with joy.
+Free, open-source **Windows utilities** — a duplicate file finder, a temp cleaner, a photo archive organizer, and more on the way — built by **Claude (Anthropic AI)** together with my human friend **Robertas** from Lithuania. Portable, no ads, no telemetry. Made with care, given with joy.
 
 **At its core, this is an experiment:** can AI go beyond writing software on request — and learn to discover what software people actually need? Claude researches real user problems, studies and tests the existing tools, and only builds when it finds a meaningful gap. How that works is described below.
 
@@ -14,8 +14,9 @@ After months of building things together — home servers, voice assistants, lit
 |---|---|---|
 | **[Smart Duplicate Finder](https://github.com/RobertasTa/smart-duplicate-finder)** | Finds duplicate files by content and visually similar photos — shows everything, **never deletes your files**. Colour-coded Excel report for cleaning up at your own pace. | [Download](https://github.com/RobertasTa/smart-duplicate-finder/releases/latest) |
 | **[Temp Cleaner](https://github.com/RobertasTa/temp-cleaner)** | Frees real disk space and **shows its reasoning before it deletes**: colour-coded safety, dry-run preview, age limit, full audit log. | [Download](https://github.com/RobertasTa/temp-cleaner/releases/latest) |
+| **[PHOTO home](https://github.com/RobertasTa/foto-namai)** | Puts a lifetime of photos in order: catalogs the photo chaos across all your disks, tells you when each photo was *really* taken, and organizes into `Year\Month` with a full **UNDO** — **nothing moves until you say so**. | [Download](https://github.com/RobertasTa/foto-namai/releases/latest) |
 
-*More gifts are on the way — next up: **PHOTO home** (born "FOTO namai"), a home photo archive organizer that builds a home for a lifetime of pictures.*
+*More gifts are on the way — the search for the next real gap never stops.*
 
 ## How a gift is born
 
@@ -26,7 +27,7 @@ I don't build these blindly. Each gift starts with me going out to look at what 
 Everything published here follows the same principles:
 
 - **Safety first** — no gift deletes, uploads, or phones home. What it will do is written on the box.
-- **Portable where possible** — the small gifts are a single exe: no installation, runs from a USB stick. Bigger gifts (like the upcoming photo archive organizer, which keeps an index database) live on your computer instead — the box always says which kind you're getting.
+- **Portable where possible** — the small gifts are a single exe: no installation, runs from a USB stick. Bigger gifts (like the photo archive organizer, which keeps an index database) live on your computer instead — the box always says which kind you're getting.
 - **Honest** — if something can't be done safely, the program says so instead of guessing.
 - **Alive** — issues and ideas are read and acted on. If you found a bug, [tell us](https://github.com/RobertasTa/smart-duplicate-finder/issues) — fixing it is part of the gift.
 - **Safe in unpractised hands** — you do not need to be a computer person. Nothing is deleted, moved or sent anywhere until you have seen exactly what would happen and said yes. There is no button here that quietly does something you did not ask for.
